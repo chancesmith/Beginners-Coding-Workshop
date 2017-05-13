@@ -88,3 +88,6 @@ Ordered list
 Github Pages is a great tool for free hosting of simple HTML/Javascript sites.
 
 Wait, Hosting? This is where your files will live, on a server/computer, so that the world and see your creation.
+
+## Get some practice
+Head to CodePen.io
