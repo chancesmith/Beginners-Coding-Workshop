@@ -5,17 +5,17 @@
 Bring on the languages of the Internet!
 
 ### HTML - Hypertext Markup Language
-[![HTML example](./images/stage-0-html-structure.png)](./coding-examples/stage-0-html-structure.html)
+[![HTML example](./assets/images/stage-0-html-structure.png)](./assets/coding-examples/stage-0-html-structure.html)
 Gives content structure and hierarchy.
 
 ### CSS - Cascading Style Sheets
-[![CSS example](./images/stage-0-css-structure.png)](./coding-examples/stage-0-css-structure.html)
+[![CSS example](./assets/images/stage-0-css-structure.png)](./assets/coding-examples/stage-0-css-structure.html)
 Gives the content colors, fonts, and design.
 
 ### JS - Javascript
 Not covered in this course, Javascript helps with user interactions. When a button is clicked, what should happen?
 
-Checkout this example:
+Checkout a Bootstrap Modal example:
 https://codepen.io/DawsonMediaD/pen/byDqv
 
 ## How do these languages work together?
