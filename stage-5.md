@@ -2,7 +2,7 @@
 ### Beginners Coding Workshop - Stage #5
 
 ## Setup CodePen project
-http://bit.ly/BCWproject
+https://codepen.io/chancesmith/project/editor/AgaxvL/
 
 ## Setup Github repository
 http://github.com
