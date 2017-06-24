@@ -13,6 +13,9 @@
 * class `.cake` would change all elements of `<div class="cake"></div>`
 * id `#chocolate` would only select one `<div class="cake" id="chocolate"></div>`
 
+CSS game to play: CSS Diner
+http://flukeout.github.io/
+
 ## relational selections
 * select `.cake > .layer` would select on the layer in the cake
 ```
