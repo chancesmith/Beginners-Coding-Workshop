@@ -11,7 +11,7 @@ Hello, Responsive design!
 ![responsive design](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e8f2a947810259.588a1ff409751.gif)
 [Presented on Behance for 2017 Design Trends](https://www.behance.net/gallery/47810259/2017-Design-Trends-Guide)
 
-Responsive design is presenting different layouts of a website in proportion to a device's screen size.
+Responsive design is presenting different layouts of a website in proportion to a device's screen size. This ability to adapt to different screen sizes is used with CSS Media Queries.
 
 ## Bootstrap Walkthrough
 http://getbootstrap.com

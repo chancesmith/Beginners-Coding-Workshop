@@ -6,7 +6,7 @@
 
 ## important to remember
 * CSS is not intuitive. So, give it time and welcome to the party.
-* CSS goes in order from top to bottom
+* CSS is cascading. Meading the last style overwrites everything before it. CSS goes in order from top to bottom
 
 ## selectors
 * tag `div` would select all `div`
