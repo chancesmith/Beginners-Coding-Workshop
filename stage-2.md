@@ -13,9 +13,6 @@
 * class `.cake` would change all elements of `<div class="cake"></div>`
 * id `#chocolate` would only select one `<div class="cake" id="chocolate"></div>`
 
-CSS game to play: CSS Diner
-http://flukeout.github.io/
-
 ## relational selections
 * select `.cake > .layer` would select on the layer in the cake
 ```
@@ -41,7 +38,7 @@ http://flukeout.github.io/
 ```
 
 ## CSS game to practice selectors
-https://flukeout.github.io/
+[CSS Diner](https://flukeout.github.io/)
 
 ## Get some practice
 Head to CodePen.io
