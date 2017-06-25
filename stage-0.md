@@ -4,6 +4,8 @@
 ## What makes up a website?
 Bring on the languages of the Internet!
 
+There will be two files of HTML and CSS to build a website.
+
 ### HTML - Hypertext Markup Language
 [![HTML example](./assets/images/stage-0-html-structure.png)](./assets/coding-examples/stage-0-html-structure.html)
 
