@@ -1,5 +1,10 @@
 # Beginners Coding Workshop
 
+## Setup
+- open Google Chrome
+- open and login into Codepen.io
+- open and login into Github.com
+
 ## Goals
 * practice something new to see if it interest you
 * able to read and understand HTML/CSS & Bootstrap (front-end development)
