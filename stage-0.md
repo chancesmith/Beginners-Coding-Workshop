@@ -12,7 +12,7 @@ There will be two files of HTML and CSS to build a website.
 Gives content structure and hierarchy.
 
 ### CSS - Cascading Style Sheets
-![CSS example](https://github.com/chancesmith/Beginners-Coding-Workshop/blob/master/assets/images/stage-0-css-structure.png)](./assets/coding-examples/stage-0-css-structure.html)
+![CSS example](https://github.com/chancesmith/Beginners-Coding-Workshop/blob/master/assets/images/stage-0-css-structure.png)
 
 Gives the content colors, fonts, and design.
 
