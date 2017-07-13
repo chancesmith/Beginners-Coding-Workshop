@@ -7,12 +7,12 @@ Bring on the languages of the Internet!
 There will be two files of HTML and CSS to build a website.
 
 ### HTML - Hypertext Markup Language
-[![HTML example](https://github.com/chancesmith/Beginners-Coding-Workshop/blob/master/assets/images/stage-0-html-structure.png)
+![HTML example](https://github.com/chancesmith/Beginners-Coding-Workshop/blob/master/assets/images/stage-0-html-structure.png)
 
 Gives content structure and hierarchy.
 
 ### CSS - Cascading Style Sheets
-[![CSS example](./assets/images/stage-0-css-structure.png)](./assets/coding-examples/stage-0-css-structure.html)
+![CSS example](./assets/images/stage-0-css-structure.png)](./assets/coding-examples/stage-0-css-structure.html)
 
 Gives the content colors, fonts, and design.
 
