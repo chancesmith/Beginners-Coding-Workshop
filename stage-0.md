@@ -7,7 +7,7 @@ Bring on the languages of the Internet!
 There will be two files of HTML and CSS to build a website.
 
 ### HTML - Hypertext Markup Language
-[![HTML example](./assets/images/stage-0-html-structure.png)](./assets/coding-examples/stage-0-html-structure.html)
+[![HTML example](https://github.com/chancesmith/Beginners-Coding-Workshop/blob/master/assets/images/stage-0-html-structure.png)
 
 Gives content structure and hierarchy.
 
