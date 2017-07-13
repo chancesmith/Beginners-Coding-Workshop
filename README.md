@@ -16,3 +16,11 @@
 * stage 3 - [Sketch your idea](stage-3.md)
 * stage 4 - [Bootstrap for speedy design](stage-4.md)
 * stage 5 - [Build your site](stage-5.md)
+
+## URLs for your school's tech dept
+* https://github.com
+* https://codepen.io
+* https://placeholder.com
+* https://google.com (fonts.google.com, docs.google.com)
+* https://ccsearch.creativecommons.org
+* https://getbootstrap.com
