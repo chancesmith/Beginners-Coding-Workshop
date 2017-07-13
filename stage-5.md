@@ -8,6 +8,8 @@ https://codepen.io/chancesmith/project/editor/AgaxvL/
 https://ccsearch.creativecommons.org/
 "Copy credit as HTML"
 
+https://images.google.com `(search for an image) > tools > usages rights`
+
 Placeholder images: https://placeholder.com/
 
 ## Setup Github repository
