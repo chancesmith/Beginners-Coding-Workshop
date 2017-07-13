@@ -45,3 +45,11 @@ Learning to code is doable. Start here:
 * Boilerplate (Ex: [HTML5 Boilerplate](https://html5boilerplate.com/))
 * Playground area (Ex: [Codepen](http://codepen.io))
 * [Github](http://github.com) (Also learn: Command Line and Git)
+
+## URLs for your school's tech dept
+* https://github.com
+* https://codepen.io
+* https://placeholder.com
+* https://google.com (fonts.google.com, docs.google.com)
+* https://ccsearch.creativecommons.org
+* https://getbootstrap.com

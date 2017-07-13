@@ -6,7 +6,7 @@ There are lots of digital tools for sketch, but paper is permanent. Your brain r
 
 ## Explore elements of sketching websites and apps
 Here is a rough sketch of elements you can use to sketch your website.
-![website sketch palette](sketch-palette.jpg)
+![website sketch palette](./assets/images/sketch-palette.jpg)
 
 ## Let's sketch
 - follow the leader

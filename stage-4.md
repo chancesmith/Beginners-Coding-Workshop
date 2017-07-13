@@ -14,7 +14,7 @@ Hello, Responsive design!
 Responsive design is presenting different layouts of a website in proportion to a device's screen size. This ability to adapt to different screen sizes is used with CSS Media Queries.
 
 ## Bootstrap Walkthrough
-http://getbootstrap.com
+https://getbootstrap.com
 
 ## Bootstrap column examples
 * https://codepen.io/chancesmith/pen/KWoyjX

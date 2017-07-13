@@ -40,5 +40,47 @@
 ## CSS game to practice selectors
 [CSS Diner](https://flukeout.github.io/)
 
+## Colors
+There are a few ways you'll see colors definded:
+
+Literal
+* `color: red;`
+* `color: blue;`
+* `color: green;`
+
+HEX (hexadecimal)
+* `color: #f00; /* red */`
+* `color: #001aff; /* blue */`
+* `color: #2f0; /* green */`
+
+RGBA (red green blue alpha)
+* `color: rgb(255, 0, 0); /* red */`
+* `color: rgb(0, 26, 255); /* blue */`
+* `color: rgb(34, 255, 0); /* green */`
+
+There is a method to the madness, but you'll be happy to know there are color pickers to help you.
+
+![chrome inspector color picker](./assets/images/stage-2-color-picker.png)
+
+## CSS property list
+Here are some of the lists of properties you'll see in the wild. You'll want to use these a good bit.
+
+```
+p {
+	font-size: 18px;
+	font-family: sans-serif;
+	color: #333;
+	line-height: 1em;
+}
+.service {
+	border: 1px solid #333;
+	padding: 10px 14px;
+	margin: 0;
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+```
+
 ## Get some practice
 Head to CodePen.io
